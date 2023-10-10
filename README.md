@@ -1,10 +1,10 @@
-### A Basic Link Shortener <hr/>
-Choto-bato in Nepali means short(quick) route.
+### A Basic Link Shortener
+> Choto-bato in Nepali means short(quick) route.
 * Go (Echo framework)
 * Redis
 
 
-### Endpoints <hr/>
+### Endpoints 
 
 
 <table >
@@ -64,7 +64,7 @@ Choto-bato in Nepali means short(quick) route.
 </tbody>
 </table>
 
-### Running <hr/>
+### Running
 Requires:
 - Go runtime
 - Redis
